@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>东离与糖宝</title>
+<style>
+body{font-family:system-ui;max-width:700px;margin:40px auto;padding:0 20px;}
+h1{color:#333;}
+p{color:#555;line-height:1.7;}
+</style>
+</head>
+<body>
+<h1>东离与糖宝</h1>
+<p>独立游戏开发者，专注治愈可爱风格休闲小游戏开发。</p>
+<p>代表作品：猫猫俄罗斯方块，后续持续开发猫猫系列创意小游戏。</p>
+<p>我们希望用轻松、柔和的游戏内容，给玩家带来简单纯粹的快乐。</p>
+</body>
+</html>
+
